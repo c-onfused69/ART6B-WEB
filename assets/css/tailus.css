@@ -23,7 +23,7 @@
         --ui-disabled-border : theme(colors.gray.100);
         --ui-error-border : theme(colors.danger.600);
         --ui-success-border : theme(colors.success.600);
-        --input-outline:theme(colors.primary.600);
+        --input-outline:theme(colors.primary.700);
 
         /* Background */
 
@@ -66,7 +66,7 @@
     }
 
     a:focus-visible, button:focus-visible {
-        @apply outline-2 outline-offset-2 focus-visible:outline outline-primary-600
+        @apply outline-2 outline-offset-2 focus-visible:outline outline-primary-700
     }
 
     input:user-invalid, textarea:user-invalid, select:user-invalid {
@@ -482,7 +482,7 @@
     }
 
     .switch.variant-primary{
-        @apply has-[:checked]:bg-primary-600
+        @apply has-[:checked]:bg-primary-700
     }
 
     .switch.variant-neutral{
