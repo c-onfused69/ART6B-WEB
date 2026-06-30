@@ -12,13 +12,13 @@ const projects = [
   {
     title: "Redland Digital",
     desc: "A Dhaka, Bangladesh-based digital solution agency consists of creative individuals, honing their skills for years.",
-    img: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    img: "portfolio/redland.png",
     link: "#"
   },
   {
     title: "LAST SODA",
     desc: "A product concept for a business competition. The world's first soda that provides a classic soda experience.",
-    img: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    img: "portfolio/lastsoda.png",
     link: "#"
   }
 ]
@@ -88,7 +88,7 @@ function Portfolio() {
                   
                   {/* Brand Badge */}
                   <div className="absolute top-4 left-4 z-20 size-12 bg-white/90 backdrop-blur-md rounded-[1rem] flex items-center justify-center shadow-lg transform -translate-y-2 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]">
-                    <img src="/public/logo.svg" alt="ART6B Logo" className="h-6" />
+                    <img src="/logo.svg" alt="ART6B Logo" className="h-6" />
                   </div>
                 </div>
 
