@@ -6,7 +6,7 @@ const projects = [
   {
     title: "mapd.",
     desc: "A higher education consulting firm guiding students and young professionals from South Asia and the Middle East.",
-    img: "/mapd.png",
+    img: "portfolio/mapd.png",
     link: "https://www.behance.net/gallery/212099535/Mapd-Brand-Identity"
   },
   {
