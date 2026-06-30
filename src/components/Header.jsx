@@ -47,7 +47,7 @@ function Header() {
       >
         {/* Logo */}
         <a href="/" className="relative z-50 flex-shrink-0">
-          <img src="/public/logo.svg" alt="ART6B Logo" className="h-7 md:h-8 transition-transform duration-500 hover:scale-105" />
+          <img src="../public/logo.svg" alt="ART6B Logo" className="h-7 md:h-8 transition-transform duration-500 hover:scale-105" />
         </a>
 
         {/* Desktop Navigation */}

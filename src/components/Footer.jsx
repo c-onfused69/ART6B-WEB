@@ -17,7 +17,7 @@ function Footer() {
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <a href="/" className="inline-block mb-6">
-              <img src="/public/logo.svg" alt="ART6B Logo" className="h-10" />
+              <img src="../public/logo.svg" alt="ART6B Logo" className="h-10" />
             </a>
             <p className="text-white/60 font-medium leading-relaxed mb-8 max-w-[30ch]">
               We craft stories that resonate, build brands that inspire, and deliver results that matter.
