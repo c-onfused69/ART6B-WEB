@@ -13,13 +13,13 @@ const projects = [
     title: "Redland Digital",
     desc: "A Dhaka, Bangladesh-based digital solution agency consists of creative individuals, honing their skills for years.",
     img: "portfolio/redland.png",
-    link: "#"
+    link: "https://www.behance.net/gallery/143348385/Redland-Branding-Social-Media"
   },
   {
     title: "LAST SODA",
     desc: "A product concept for a business competition. The world's first soda that provides a classic soda experience.",
     img: "portfolio/lastsoda.png",
-    link: "#"
+    link: "https://www.behance.net/gallery/211587259/Brand-Identity-of-Last-Soda"
   }
 ]
 
